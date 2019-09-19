@@ -1,0 +1,13 @@
+#!/usr/bin/node
+{
+  "libs": ["browser", "jquery"],
+    "plugins": {
+        "node": {},
+        "modules": {
+              "chalk": "./node_modules/chalk/index.js"
+                  
+        }
+          
+    }
+
+}
